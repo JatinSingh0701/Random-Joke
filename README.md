@@ -1,19 +1,10 @@
-Sure, here's an example of a README.md file that you can use for your GitHub repository:
-
-```markdown
 # Random Joke Generator
-
-![Random Joke Generator](screenshot.png)
 
 ## Description
 
 This is a simple web application that generates random jokes using the JokeAPI. It fetches a joke from the API and displays it on the webpage when the "Get Random Joke" button is clicked.
 
 The application is built using HTML, CSS, and JavaScript, and it utilizes the Rubik font from Google Fonts for the styling.
-
-## Demo
-
-You can see a live demo of the application [here](https://example.com/random-joke-generator).
 
 ## Features
 
@@ -58,12 +49,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me at your.email@example.com.
-
+If you have any questions or suggestions, feel free to reach out to me at Jatinsingh0701@gmail.com.
 ```
-
-Make sure to replace the placeholders (e.g., `your-username`, `https://example.com/random-joke-generator`, `your.email@example.com`, etc.) with the appropriate information specific to your project.
-
-Add the `screenshot.png` image to the root of your repository to display the screenshot of your application in the README. This image should showcase how your application looks when it's running.
-
-Remember to include important details like installation instructions, usage guide, credits, and licensing information to provide a comprehensive overview of your project to potential users and contributors.
